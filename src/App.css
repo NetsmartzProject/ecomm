@@ -1,0 +1,24 @@
+/* src/components/ProductCategoryChart.css */
+
+.chart-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 45%; /* Adjust the width as needed */
+  }
+  
+  .chart {
+    width: 100%;
+  }
+  
+  /* Optional: Add more specific styles as needed */
+  .chart h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
